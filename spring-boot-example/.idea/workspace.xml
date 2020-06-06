@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc8984ff-7da3-4a4e-a6bc-0bb021dffc68" name="Default Changelist" comment="" />
+    <list default="true" id="dc8984ff-7da3-4a4e-a6bc-0bb021dffc68" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/spring-boot-starter-2.3.0.RELEASE-annotation/src/main/java/com/qingxie30c/boot/annotation/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-starter-2.3.0.RELEASE-annotation/src/test/java/com/qingxie30c/unittest/ConfiguationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-starter-2.3.0.RELEASE-annotation/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-starter-2.3.0.RELEASE-annotation/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -15,6 +31,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1cwFC1BNyy3hKYFfYwsxUguPD3L" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -26,6 +43,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/spring-boot-starter-2.3.0.RELEASE-annotation/src/main/java" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -39,6 +62,42 @@
       <updated>1591431617270</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:/Users/fandong/Desktop/spring-study-example/spring-study-example/spring-boot-example" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="291" y="121" key="new project wizard" timestamp="1591431749127">
