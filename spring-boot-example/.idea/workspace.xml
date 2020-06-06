@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc8984ff-7da3-4a4e-a6bc-0bb021dffc68" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/spring-boot-starter-2.3.0.RELEASE-annotation/src/main/java/com/qingxie30c/boot/annotation/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-starter-2.3.0.RELEASE-annotation/src/test/java/com/qingxie30c/unittest/ConfiguationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-starter-2.3.0.RELEASE-annotation/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-starter-2.3.0.RELEASE-annotation/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-starter-2.3.0.RELEASE-annotation/src/main/java/com/qingxie30c/boot/annotation/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-starter-2.3.0.RELEASE-annotation/src/main/java/com/qingxie30c/boot/annotation/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MavenImportPreferences">
@@ -61,6 +63,14 @@
       <option name="presentableId" value="Default" />
       <updated>1591431617270</updated>
     </task>
+    <task id="LOCAL-00001" summary="搭建基本使用框架">
+      <created>1591432924087</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591432924087</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -99,7 +109,19 @@
       </set>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="搭建基本使用框架" />
+    <option name="LAST_COMMIT_MESSAGE" value="搭建基本使用框架" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="22" y="55" key="CommitChangelistDialog2" timestamp="1591432923604">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="22" y="55" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1591432923604" />
+    <state x="320" y="191" key="Vcs.Push.Dialog.v2" timestamp="1591432928327">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="191" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1591432928327" />
     <state x="291" y="121" key="new project wizard" timestamp="1591431749127">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
