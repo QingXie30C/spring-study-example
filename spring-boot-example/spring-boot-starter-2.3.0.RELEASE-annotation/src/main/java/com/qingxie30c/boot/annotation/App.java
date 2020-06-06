@@ -12,6 +12,6 @@ public class App {
     public static void main(String[] args) {
         SpringApplication.run(App.class,args);
     }
-
+    //testts2
     private final String name2 ="test1";
 }
